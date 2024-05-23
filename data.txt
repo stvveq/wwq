@@ -1,0 +1,8 @@
+101 Ivanov_Ivan_Ivanovich Spartak 10:00:00 11:22:15
+102 Petrov_Petr_Petrovich Dynamo 10:00:30 11:35:45
+103 Sidorov_Sergey_Sergeevich Spartak 10:01:00 11:18:30
+104 Kuznetsov_Andrey_Andreevich Lokomotiv 10:01:15 11:40:00
+105 Zakharova_Maria_Ivanovna Spartak 10:01:45 11:25:00
+106 Orlov_Nikolai_Mikhailovich Dynamo 10:02:00 11:42:30
+107 Sokolova_Elena_Alexandrovna Spartak 10:02:30 11:20:45
+108 Novikov_Maxim_Dmitrievich Lokomotiv 10:02:45 11:38:15
